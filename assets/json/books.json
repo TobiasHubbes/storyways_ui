@@ -1,0 +1,40 @@
+{
+    "books": [
+        {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "published": "2005-12-03",
+            "image": "https://i.picsum.photos/id/946/200/300.jpg?hmac=4NmmK793hUBmx2qGX9mbsWLk9AF6kGjngYA9C-RMyJQ"
+        },
+        {
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "published": "2010-11-03",
+            "image": "https://i.picsum.photos/id/665/200/300.jpg?hmac=N-XMC7MU7lBNaQh5wZrn0uyEcJkpIGQP2s1vL_A8kF8"
+        },
+        {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "published": "2005-12-03",
+            "image": "https://i.picsum.photos/id/607/200/300.jpg?hmac=ZEvzqI62NudR3rgqTkRZzFnlEeOt9z-b_i8VdLoTgoI"
+        },
+        {
+            "title": "Harry Potter and the Philosopher's Stone",
+            "author": "J.R.R. Tolkien",
+            "published": "2005-12-03",
+            "image": "https://i.picsum.photos/id/504/200/300.jpg?hmac=mycti8qYrnGcag5zUhsVOq7hQwb__R-Zf--aBJAH_ec"
+        },
+        {
+            "title": "Harry Potter and the Chamber of Secrets",
+            "author": "J.R.R. Tolkien",
+            "published": "2005-12-03",
+            "image": "https://i.picsum.photos/id/1032/200/300.jpg?hmac=QdMNx6kwGjGtQqK_jCFOZa06MImU1ePTGi3mpwLZmwo"
+        },
+        {
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "published": "2005-12-03",
+            "image": "https://i.picsum.photos/id/141/200/300.jpg?hmac=d8Mh3TnTbeViVLDauKiTRsNX8KAY5RGDbXDwEuecPko"
+        }            
+    ]
+}

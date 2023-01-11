@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "published": "2005-12-03",
+            "image": "https://i.picsum.photos/id/1032/200/300.jpg?hmac=QdMNx6kwGjGtQqK_jCFOZa06MImU1ePTGi3mpwLZmwo"
+        },
+        {
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "published": "2010-11-03",
+            "image": "https://picsum.photos/200/300"
+        },
+        {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "published": "2005-12-03",
+            "image": "https://i.picsum.photos/id/141/200/300.jpg?hmac=d8Mh3TnTbeViVLDauKiTRsNX8KAY5RGDbXDwEuecPko"
+        },
+        {
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "published": "2005-12-03",
+            "image": "https://picsum.photos/200/300"
+        }        
+    ]
+}
